@@ -1,0 +1,7 @@
+{
+  "name": "connect-injector-issue",
+  "dependencies": {
+    "connect-injector": "~0.4.0",
+    "connect": "*"
+  }
+}
