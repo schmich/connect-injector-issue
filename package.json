@@ -1,7 +1,7 @@
 {
   "name": "connect-injector-issue",
   "dependencies": {
-    "connect-injector": "*",
+    "connect-injector": "0.4.0",
     "request": "*",
     "connect": "*"
   },
